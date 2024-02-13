@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vichanzo
 - 👀 I’m interested in ... Computers and Linux
-- 🌱 I’m currently learning ... Automation using Ansible
+- 🌱 I’m currently learning ... picoCTF
 - 📫 How to reach me ... Here
 
 <!---
